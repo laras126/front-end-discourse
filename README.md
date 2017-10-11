@@ -1,6 +1,6 @@
 # Front-end Discourse
 
-If you call yourself a front-end developer, then you're in the right place. 
+If you call yourself a front-end developer, then you're in the right place!
 
 ## A call to action
 
