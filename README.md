@@ -17,6 +17,7 @@ For example, could you graph your skills on this spectrum? Obviously I can, but 
 ![Diagram of the spectrum of skills in front-end development](https://notlaura.com/wp-content/uploads/2017/10/fe-spectrum.png)
 
 A couple more example issues:
+- [When is an HTML/CSS expert as valuable as a JavaScript expert?](https://github.com/laras126/front-end-discourse/issues/7)
 - [There should be a standardized process for assessing technical skills](https://github.com/laras126/front-end-discourse/issues/4)
 - [The term engineer is not appropriate for a front-end developer.](https://github.com/laras126/front-end-discourse/issues/3)
 
