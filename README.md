@@ -23,14 +23,12 @@ A couple more example issues:
 
 There has been a decent amount of writing about these topics over the last few years. Here are some links of note, and please contribute more!
 
-Some outlining of the problem:
-* [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)
-* [Death of the "front-end developers"](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)
-* [Tales of a Non-Unicorn: A Story About the Trouble with Job Titles and Descriptions](https://css-tricks.com/tales-of-a-non-unicorn-a-story-about-the-trouble-with-job-titles-and-descriptions/)
-
-Other relevant reading:
+* [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06), Mandy Kerr
+* [Death of the "front-end developers"](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411), Jerry Low
+* [Tales of a Non-Unicorn: A Story About the Trouble with Job Titles and Descriptions](https://css-tricks.com/tales-of-a-non-unicorn-a-story-about-the-trouble-with-job-titles-and-descriptions/), Lara Schenck
 * [Front-end Job Titles on Front-end Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2017/practice/types-of-front-end-dev.html)
-* [The Front-end Spectrum](https://medium.com/@withinsight1/the-front-end-spectrum-c0f30998c9f0)
+* [Front-end Design](http://bradfrost.com/blog/post/frontend-design/), Brad Frost
+* [Full-Stack Developers](http://bradfrost.com/blog/post/full-stack-developers/), Brad Frost
 
 ## Thanks!
 
