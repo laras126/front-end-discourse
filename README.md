@@ -12,15 +12,13 @@ I'm hoping that in creating this repository, we can have a designated place to s
 
 I am using the issues section of this repository to foster discussion. Scan through them, and if you have an opinion about one of them, let's hear it! And if you have an idea for an issue, post it! I've created some rough categories, but everything is up for interpretation and open to change.
 
-Here are a few example issues:
+For example, could you graph your skills on this spectrum? Obviously I can, but let's all talk about it and figure out a solution that works for everyone cause I'm guessing this doesn't. [Talk about it.](https://github.com/laras126/front-end-discourse/issues/2)
+
+![Diagram of the spectrum of skills in front-end development](https://notlaura.com/wp-content/uploads/2017/10/fe-spectrum.png)
+
+A couple more example issues:
 - [There should be a standardized process for assessing technical skills](https://github.com/laras126/front-end-discourse/issues/4)
 - [The term engineer is not appropriate for a front-end developer.](https://github.com/laras126/front-end-discourse/issues/3)
-- [A front-end developer's skill-set lies on a spectrum within UI/UX <--> back-end](https://github.com/laras126/front-end-discourse/issues/2)
-
-Could you graph your skills on this spectrum?
-![Diagram of the spectrum of skills in front-end development](https://notlaura.com/wp-content/uploads/2017/10/fe-spectrum.png)
-[Talk about it.](https://github.com/laras126/front-end-discourse/issues/2)
-
 
 ## Relevant reading
 
