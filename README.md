@@ -6,7 +6,7 @@ If you call yourself a front-end developer, then you're in the right place! Take
 
 This repository is a call to action for us, the front-end community, to come up with a set of community vetted and standardized job titles and descriptions. These will not only help us see how our individual skill-sets fit into the spectrum of front-end web development, but it can also help recruiters and hiring managers write job posts that attract more qualified candidates.
 
-I'm hoping that in creating this repository, we can have a designated place to start a conversation that will ultimately result in evolving, community vetted front-end job titles and descriptions that are written by front-end developers, not recruiters.
+I'm hoping that in creating this repository, we can have a designated place to start a conversation that will ultimately result in evolving, community vetted job titles and descriptions for front-end developers **by** front-end developers.
 
 ## The issues
 
