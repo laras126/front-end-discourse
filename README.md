@@ -10,12 +10,15 @@ I'm hoping that in creating this repository, we can have a designated place to s
 
 I am using the issues section of this repository to foster discussion. Scan through them, and if you have an opinion about one of them, let's hear it! And if you have an idea for an issue, post it! I've created some rough categories, but everything is up for interpretation and open to change.
 
-For example, could you graph your skills on this spectrum? Obviously I can, but let's all talk about it and figure out a solution that works for everyone cause I'm guessing this doesn't. [Talk about it.](https://github.com/laras126/front-end-discourse/issues/2)
+For example, could you graph your skills on this spectrum? 
 
 ![Diagram of the spectrum of skills in front-end development](https://notlaura.com/wp-content/uploads/2017/10/fe-spectrum.png)
 
+I can, but I'm not representative of all front-end developers. What do you think? [Talk about it.](https://github.com/laras126/front-end-discourse/issues/2)
+
 A couple more example issues:
 - [When is an HTML/CSS expert as valuable as a JavaScript expert?](https://github.com/laras126/front-end-discourse/issues/7)
+- [What does "full-stack" developer really mean?](https://github.com/laras126/front-end-discourse/issues/8)
 - [There should be a standardized process for assessing technical skills](https://github.com/laras126/front-end-discourse/issues/4)
 - [The term engineer is not appropriate for a front-end developer.](https://github.com/laras126/front-end-discourse/issues/3)
 
