@@ -17,6 +17,11 @@ Here are a few example issues:
 - [The term engineer is not appropriate for a front-end developer.](https://github.com/laras126/front-end-discourse/issues/3)
 - [A front-end developer's skill-set lies on a spectrum within UI/UX <--> back-end](https://github.com/laras126/front-end-discourse/issues/2)
 
+Could you graph your skills on this spectrum?
+![Diagram of the spectrum of skills in front-end development](https://notlaura.com/wp-content/uploads/2017/10/fe-spectrum.png)
+[Talk about it.](https://github.com/laras126/front-end-discourse/issues/2)
+
+
 ## Relevant reading
 
 There has been a decent amount of dialog about these topics over the last few years. Here are some links of note, and please contribute more!
