@@ -1,6 +1,6 @@
 # Front-end Discourse
 
-If you call yourself a front-end developer, then you're in the right place!
+If you call yourself a front-end developer, then you're in the right place! Take a read through this part, then jump right to [the issues](https://github.com/laras126/front-end-discourse/issues/).
 
 ## A call to action
 
