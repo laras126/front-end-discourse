@@ -6,9 +6,9 @@ This repository is a call to action for us, the front-end community, to all agre
 
 I'm hoping that in creating this repository, we can have a designated place to start a conversation that will ultimately result in evolving, community vetted job titles and descriptions for front-end developers *by* front-end developers.
 
-## It's All in the Issues
+## Add your thoughts to the issues
 
-I am using the issues section of this repository to foster discussion. Scan through them, and if you have an opinion about one of them, let's hear it! And if you have an idea for an issue, post it! I've created some rough categories, but everything is up for interpretation and open to change.
+I am using the [issues](https://github.com/laras126/front-end-discourse/issues/) section of this repository to foster discussion. Scan through them, and if you have an opinion about one of them, let's hear it! And if you have an idea for an issue, post it! I've created some rough categories, but everything is up for interpretation and open to change.
 
 For example, could you graph your skills on this spectrum? 
 
