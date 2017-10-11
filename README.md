@@ -32,7 +32,8 @@ Other relevant reading:
 
 ## Thanks!
 
-Hi, I'm Lara. I'm a front-end developer that's a lot better at CSS than JavaScript. I am forever adjusting my job title in my Twitter bio, and I'd rather not.
+Hi, I'm Lara. I'm a front-end developer that's a lot better at CSS than JavaScript. I am forever adjusting my title in my Twitter bio, and I think that's indicative of some issues in the front-end industry that can be solved with some good old-fashioned discourse.
 
-Thanks for reading, and thanks in advance for contributing!
--Lara
+Are you relieved you didn't have to `npm install` this thing?
+
+Thanks for reading, and thanks in advance for contributing! 
