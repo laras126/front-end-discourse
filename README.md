@@ -22,7 +22,7 @@ A couple more example issues:
 - [There should be a standardized process for assessing technical skills](https://github.com/laras126/front-end-discourse/issues/4)
 - [The term engineer is not appropriate for a front-end developer.](https://github.com/laras126/front-end-discourse/issues/3)
 
-## Relevant Reading
+## Relevant Links
 
 There has been a decent amount of writing about these topics over the last few years. Here are some links of note, and please contribute more!
 
@@ -32,6 +32,12 @@ There has been a decent amount of writing about these topics over the last few y
 * [Front-end Job Titles on Front-end Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2017/practice/types-of-front-end-dev.html)
 * [Front-end Design](http://bradfrost.com/blog/post/frontend-design/), Brad Frost
 * [Full-Stack Developers](http://bradfrost.com/blog/post/full-stack-developers/), Brad Frost
+
+Also, I've prototyped a couple of tools that I think would help with hiring. 
+
+* [Myers-Briggs for Web People a.k.a. The Unicorn Test](https://codepen.io/laras126/pen/gRZMrJ)
+* [Job Post Calculator](https://codepen.io/laras126/pen/zGEgVP)
+* Interactive version of The Front-end Spectrum (coming soon so you can screenshot it and include it in your job posts!)
 
 ## Thanks!
 
