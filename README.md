@@ -19,7 +19,7 @@ Here are a few example issues:
 
 ## Relevant reading
 
-There has been a decent amount of dialog about these topics over the last few years. Here are a few links of note, and please add more as you please!
+There has been a decent amount of dialog about these topics over the last few years. Here are some links of note, and please contribute more!
 
 Some outlining of the problem:
 * [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)
