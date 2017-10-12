@@ -32,6 +32,7 @@ There has been a decent amount of writing about these topics over the last few y
 * [Front-end Job Titles on Front-end Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2017/practice/types-of-front-end-dev.html)
 * [Front-end Design](http://bradfrost.com/blog/post/frontend-design/), Brad Frost
 * [Full-Stack Developers](http://bradfrost.com/blog/post/full-stack-developers/), Brad Frost
+* [Front-end Roles & Responsibilities](https://hackernoon.com/front-end-roles-and-responsibilities-6ee8654f1649), Jeff Pelletier
 
 Also, I've prototyped a couple of tools that I think would help with hiring. 
 
